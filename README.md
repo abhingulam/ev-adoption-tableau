@@ -153,7 +153,7 @@ ev-adoption-tableau/
 ## 👤 Author
 
 **Abhin Gulam**
-- 💼 [LinkedIn Profile](your-linkedin-url)
+- 💼 [LinkedIn Profile](linkedin.com/in/abhin-gulam-a2737a313)
 - 🐙 [GitHub](https://github.com/abhingulam)
 
 ---
